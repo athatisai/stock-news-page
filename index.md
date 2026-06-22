@@ -23,3 +23,14 @@
 - 🤖 **自動化**: 每日收市後自動更新。
 
 📖 [查看 Skill 詳細介紹 →](docs/skill-intro.md)
+
+---
+
+## 🔍 全市場掃描報告
+
+每日早上 08:00 自動掃描全市場 500+ 股票，找出最佳 Sell Put 同 Spread 機會。
+
+| 日期 | 報告 | 重點摘要 |
+|------|------|----------|
+| 2026-06-22 | [查看報告](reports/2026-06-22-fullmarket-scan.md) | 🟢 Sell Put: ICE, CRM, AIG | 🔴 Bear Call: PG, MMM |
+

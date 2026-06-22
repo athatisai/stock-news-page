@@ -1,9 +1,8 @@
 # 🌟 全市場 Sell Put & Spread 掃描報告
-
 > **日期**: 2026-06-22  
 > **Job ID**: ba30247ed466  
 > **運行時間**: 2026-06-22 08:15:52  
-> **來源**: Cron Job 自動掃描
+> **來源**: Cron Job 自動掃描 (即時整合測試)
 
 ---
 
@@ -84,9 +83,8 @@ Data is ready. Let me now deliver the final report.
 
 
 ---
-
 ## 📁 相關連結
 - [返回首頁](../index.md)
-- [其他歷史報告](./)
+- [歷史報告列表](./)
 
 *本報告由 Hermes Agent 自動生成 • 數據來源：Yahoo Finance, TradingView*

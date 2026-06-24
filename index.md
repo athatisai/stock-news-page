@@ -59,3 +59,13 @@
 | JBL_425_PUT_CALL | -$1,659 |
 
 *數據來源：trading_journal.json*
+
+---
+
+## Full Market Scan Report
+Daily scan of 500+ stocks for best Sell Put and Spread opportunities.
+
+| Date | Report | Summary |
+|------|--------|---------|
+| 2026-06-24 | [View Report](reports/2026-06-24-fullmarket-scan.md) | See report for details |
+

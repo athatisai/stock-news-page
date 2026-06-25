@@ -69,3 +69,13 @@ Daily scan of 500+ stocks for best Sell Put and Spread opportunities.
 |------|--------|---------|
 | 2026-06-24 | [View Report](reports/2026-06-24-fullmarket-scan.md) | See report for details |
 
+
+
+---
+
+## 🔍 全市場掃描報告
+每日早上 08:00 自動掃描全市場 500+ 股票，找出最佳 Sell Put 同 Spread 機會。
+
+| 日期 | 報告 | 重點摘要 |
+|------|------|----------|
+| 2026-06-25 | [查看報告](reports/2026-06-25-fullmarket-scan.md) | 🟢 Sell Put 機會報告見內文 | 🔴 Bear Call 機會報告見內文 |

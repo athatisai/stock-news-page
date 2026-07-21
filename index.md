@@ -2,6 +2,8 @@
 
 ## 歷史報告
 
+- [2026-07-22](reports/2026-07-22.md)  
+- [2026-07-21-preopen](reports/2026-07-21-preopen.md)  
 - [2026-07-21](reports/2026-07-21.md)  
 - [2026-07-21-fullmarket](reports/2026-07-21-fullmarket.md)  
 - [2026-07-21-aftermarket](reports/2026-07-21-aftermarket.md)  

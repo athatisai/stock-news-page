@@ -3,6 +3,7 @@
 ## 歷史報告
 
 - [2026-07-28](reports/2026-07-28.md)  
+- [2026-07-28-fullmarket](reports/2026-07-28-fullmarket.md)  
 - [2026-07-28-aftermarket](reports/2026-07-28-aftermarket.md)  
 - [2026-07-28-sellput](reports/2026-07-28-sellput.md)  
 - [2026-07-27-preopen](reports/2026-07-27-preopen.md)  

@@ -2,6 +2,10 @@
 
 ## 歷史報告
 
+- [2026-08-20](reports/2026-08-20.md)  
+- [2026-08-20-aftermarket](reports/2026-08-20-aftermarket.md)  
+- [2026-08-20-sellput](reports/2026-08-20-sellput.md)  
+- [2026-08-19-preopen](reports/2026-08-19-preopen.md)  
 - [2026-08-19](reports/2026-08-19.md)  
 - [2026-08-19-fullmarket](reports/2026-08-19-fullmarket.md)  
 - [2026-08-19-aftermarket](reports/2026-08-19-aftermarket.md)  

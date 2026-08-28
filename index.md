@@ -1,175 +1,42 @@
-# 市場情報儀表板
+---
+layout: null
+title: 市場情報儀表板
+date: 2026-08-28 09:00:00 +0800
+---
 
-## 歷史報告
+# 美股市場情報儀表板
 
-- [2026-08-26](reports/2026-08-26.md)  
-- [2026-08-26-aftermarket](reports/2026-08-26-aftermarket.md)  
-- [2026-08-26-sellput](reports/2026-08-26-sellput.md)  
-- [2026-08-25-preopen](reports/2026-08-25-preopen.md)  
-- [2026-08-25](reports/2026-08-25.md)  
-- [2026-08-25-fullmarket](reports/2026-08-25-fullmarket.md)  
-- [2026-08-25-aftermarket](reports/2026-08-25-aftermarket.md)  
-- [2026-08-25-sellput](reports/2026-08-25-sellput.md)  
-- [2026-08-24-preopen](reports/2026-08-24-preopen.md)  
-- [2026-08-24](reports/2026-08-24.md)  
-- [2026-08-24-fullmarket](reports/2026-08-24-fullmarket.md)  
-- [2026-08-24-sellput](reports/2026-08-24-sellput.md)  
-- [2026-08-22-aftermarket](reports/2026-08-22-aftermarket.md)  
-- [2026-08-21-preopen](reports/2026-08-21-preopen.md)  
-- [2026-08-21](reports/2026-08-21.md)  
-- [2026-08-21-fullmarket](reports/2026-08-21-fullmarket.md)  
-- [2026-08-21-aftermarket](reports/2026-08-21-aftermarket.md)  
-- [2026-08-21-sellput](reports/2026-08-21-sellput.md)  
-- [2026-08-20-preopen](reports/2026-08-20-preopen.md)  
-- [2026-08-20](reports/2026-08-20.md)  
-- [2026-08-20-fullmarket](reports/2026-08-20-fullmarket.md)  
-- [2026-08-20-aftermarket](reports/2026-08-20-aftermarket.md)  
-- [2026-08-20-sellput](reports/2026-08-20-sellput.md)  
-- [2026-08-19-preopen](reports/2026-08-19-preopen.md)  
-- [2026-08-19](reports/2026-08-19.md)  
-- [2026-08-19-fullmarket](reports/2026-08-19-fullmarket.md)  
-- [2026-08-19-aftermarket](reports/2026-08-19-aftermarket.md)  
-- [2026-08-19-sellput](reports/2026-08-19-sellput.md)  
-- [2026-08-18](reports/2026-08-18.md)  
-- [2026-08-18-fullmarket](reports/2026-08-18-fullmarket.md)  
-- [2026-08-18-aftermarket](reports/2026-08-18-aftermarket.md)  
-- [2026-08-18-preopen](reports/2026-08-18-preopen.md)  
-- [2026-08-18-sellput](reports/2026-08-18-sellput.md)  
-- [2026-08-11-preopen](reports/2026-08-11-preopen.md)  
-- [2026-08-11](reports/2026-08-11.md)  
-- [2026-08-11-fullmarket](reports/2026-08-11-fullmarket.md)  
-- [2026-08-11-aftermarket](reports/2026-08-11-aftermarket.md)  
-- [2026-08-11-sellput](reports/2026-08-11-sellput.md)  
-- [2026-08-10-preopen](reports/2026-08-10-preopen.md)  
-- [2026-08-10](reports/2026-08-10.md)  
-- [2026-08-10-fullmarket](reports/2026-08-10-fullmarket.md)  
-- [2026-08-10-sellput](reports/2026-08-10-sellput.md)  
-- [2026-08-08-aftermarket](reports/2026-08-08-aftermarket.md)  
-- [2026-08-07-preopen](reports/2026-08-07-preopen.md)  
-- [2026-08-07](reports/2026-08-07.md)  
-- [2026-08-07-fullmarket](reports/2026-08-07-fullmarket.md)  
-- [2026-08-07-aftermarket](reports/2026-08-07-aftermarket.md)  
-- [2026-08-07-sellput](reports/2026-08-07-sellput.md)  
-- [2026-08-06-preopen](reports/2026-08-06-preopen.md)  
-- [2026-08-06](reports/2026-08-06.md)  
-- [2026-08-06-fullmarket](reports/2026-08-06-fullmarket.md)  
-- [2026-08-06-aftermarket](reports/2026-08-06-aftermarket.md)  
-- [2026-08-06-sellput](reports/2026-08-06-sellput.md)  
-- [2026-08-05-preopen](reports/2026-08-05-preopen.md)  
-- [2026-08-05](reports/2026-08-05.md)  
-- [2026-08-05-fullmarket](reports/2026-08-05-fullmarket.md)  
-- [2026-08-05-aftermarket](reports/2026-08-05-aftermarket.md)  
-- [2026-08-05-sellput](reports/2026-08-05-sellput.md)  
-- [2026-08-04-preopen](reports/2026-08-04-preopen.md)  
-- [2026-08-04](reports/2026-08-04.md)  
-- [2026-08-04-fullmarket](reports/2026-08-04-fullmarket.md)  
-- [2026-08-04-aftermarket](reports/2026-08-04-aftermarket.md)  
-- [2026-08-04-sellput](reports/2026-08-04-sellput.md)  
-- [2026-08-03-preopen](reports/2026-08-03-preopen.md)  
-- [2026-08-03](reports/2026-08-03.md)  
-- [2026-08-03-fullmarket](reports/2026-08-03-fullmarket.md)  
-- [2026-08-03-sellput](reports/2026-08-03-sellput.md)  
-- [2026-08-01-aftermarket](reports/2026-08-01-aftermarket.md)  
-- [2026-07-31-preopen](reports/2026-07-31-preopen.md)  
-- [2026-07-31](reports/2026-07-31.md)  
-- [2026-07-31-fullmarket](reports/2026-07-31-fullmarket.md)  
-- [2026-07-31-aftermarket](reports/2026-07-31-aftermarket.md)  
-- [2026-07-31-sellput](reports/2026-07-31-sellput.md)  
-- [2026-07-30-preopen](reports/2026-07-30-preopen.md)  
-- [2026-07-30](reports/2026-07-30.md)  
-- [2026-07-30-fullmarket](reports/2026-07-30-fullmarket.md)  
-- [2026-07-30-aftermarket](reports/2026-07-30-aftermarket.md)  
-- [2026-07-30-sellput](reports/2026-07-30-sellput.md)  
-- [2026-07-29-preopen](reports/2026-07-29-preopen.md)  
-- [2026-07-29](reports/2026-07-29.md)  
-- [2026-07-29-fullmarket](reports/2026-07-29-fullmarket.md)  
-- [2026-07-29-aftermarket](reports/2026-07-29-aftermarket.md)  
-- [2026-07-29-sellput](reports/2026-07-29-sellput.md)  
-- [2026-07-28-preopen](reports/2026-07-28-preopen.md)  
-- [2026-07-28](reports/2026-07-28.md)  
-- [2026-07-28-fullmarket](reports/2026-07-28-fullmarket.md)  
-- [2026-07-28-aftermarket](reports/2026-07-28-aftermarket.md)  
-- [2026-07-28-sellput](reports/2026-07-28-sellput.md)  
-- [2026-07-27-preopen](reports/2026-07-27-preopen.md)  
-- [2026-07-27](reports/2026-07-27.md)  
-- [2026-07-27-fullmarket](reports/2026-07-27-fullmarket.md)  
-- [2026-07-27-sellput](reports/2026-07-27-sellput.md)  
-- [2026-07-25-aftermarket](reports/2026-07-25-aftermarket.md)  
-- [2026-07-24-preopen](reports/2026-07-24-preopen.md)  
-- [2026-07-24](reports/2026-07-24.md)  
-- [2026-07-24-fullmarket](reports/2026-07-24-fullmarket.md)  
-- [2026-07-24-aftermarket](reports/2026-07-24-aftermarket.md)  
-- [2026-07-24-sellput](reports/2026-07-24-sellput.md)  
-- [2026-07-23-preopen](reports/2026-07-23-preopen.md)  
-- [2026-07-23](reports/2026-07-23.md)  
-- [2026-07-23-sellput](reports/2026-07-23-sellput.md)  
-- [2026-07-23-aftermarket](reports/2026-07-23-aftermarket.md)  
-- [2026-07-23-fullmarket](reports/2026-07-23-fullmarket.md)  
-- [2026-07-22-preopen](reports/2026-07-22-preopen.md)  
-- [2026-07-22](reports/2026-07-22.md)  
-- [2026-07-22-fullmarket](reports/2026-07-22-fullmarket.md)  
-- [2026-07-22-aftermarket](reports/2026-07-22-aftermarket.md)  
-- [2026-07-22-sellput](reports/2026-07-22-sellput.md)  
-- [2026-07-21-preopen](reports/2026-07-21-preopen.md)  
-- [2026-07-21](reports/2026-07-21.md)  
-- [2026-07-21-fullmarket](reports/2026-07-21-fullmarket.md)  
-- [2026-07-21-aftermarket](reports/2026-07-21-aftermarket.md)  
-- [2026-07-21-sellput](reports/2026-07-21-sellput.md)  
-- [2026-07-20-fullmarket](reports/2026-07-20-fullmarket.md)  
-- [2026-07-20](reports/2026-07-20.md)  
-- [2026-07-20-aftermarket](reports/2026-07-20-aftermarket.md)  
-- [2026-07-20-preopen](reports/2026-07-20-preopen.md)  
-- [2026-07-20-sellput](reports/2026-07-20-sellput.md)  
-- [2026-07-15-sellput](reports/2026-07-15-sellput.md)  
-- [2026-07-14-preopen](reports/2026-07-14-preopen.md)  
-- [2026-07-14](reports/2026-07-14.md)  
-- [2026-07-14-fullmarket](reports/2026-07-14-fullmarket.md)  
-- [2026-07-14-aftermarket](reports/2026-07-14-aftermarket.md)  
-- [2026-07-14-sellput](reports/2026-07-14-sellput.md)  
-- [2026-07-13-preopen](reports/2026-07-13-preopen.md)  
-- [2026-07-13](reports/2026-07-13.md)  
-- [2026-07-13-fullmarket](reports/2026-07-13-fullmarket.md)  
-- [2026-07-13-sellput](reports/2026-07-13-sellput.md)  
-- [2026-07-11-aftermarket](reports/2026-07-11-aftermarket.md)  
-- [2026-07-10-preopen](reports/2026-07-10-preopen.md)  
-- [2026-07-10](reports/2026-07-10.md)  
-- [2026-07-10-fullmarket](reports/2026-07-10-fullmarket.md)  
-- [2026-07-10-aftermarket](reports/2026-07-10-aftermarket.md)  
-- [2026-07-10-sellput](reports/2026-07-10-sellput.md)  
-- [2026-07-09-preopen](reports/2026-07-09-preopen.md)  
-- [2026-07-09](reports/2026-07-09.md)  
-- [2026-07-09-fullmarket](reports/2026-07-09-fullmarket.md)  
-- [2026-07-09-aftermarket](reports/2026-07-09-aftermarket.md)  
-- [2026-07-09-sellput](reports/2026-07-09-sellput.md)  
-- [2026-07-08-preopen](reports/2026-07-08-preopen.md)  
-- [2026-07-08](reports/2026-07-08.md)  
-- [2026-07-08-fullmarket](reports/2026-07-08-fullmarket.md)  
-- [2026-07-08-aftermarket](reports/2026-07-08-aftermarket.md)  
-- [2026-07-08-sellput](reports/2026-07-08-sellput.md)  
-- [2026-07-03](reports/2026-07-03.md)  
-- [2026-07-06](reports/2026-07-06.md)  
-- [2026-07-02](reports/2026-07-02.md)  
-- [2026-06-30](reports/2026-06-30.md)  
-- [2026-06-29](reports/2026-06-29.md)  
-- [2026-06-30-fullmarket-scan](reports/2026-06-30-fullmarket-scan.md)  
-- [2026-06-26-每日Sell Put掃描](reports/2026-06-26-每日Sell Put掃描.md)  
-- [2026-06-26-美股開市前盤前快報](reports/2026-06-26-美股開市前盤前快報.md)  
-- [2026-06-29-fullmarket-scan](reports/2026-06-29-fullmarket-scan.md)  
-- [2026-06-26-美股收市全日報告](reports/2026-06-26-美股收市全日報告.md)  
-- [2026-06-26-全市場Sell Put機會掃描](reports/2026-06-26-全市場Sell Put機會掃描.md)  
-- [2026-06-24-fullmarket-scan](reports/2026-06-24-fullmarket-scan.md)  
-- [2026-06-21](reports/2026-06-21.md)  
-- [2026-06-23_全市場Sell Put機會掃描](reports/2026-06-23_全市場Sell Put機會掃描.md)  
-- [2026-06-23_美股開市前盤前快報](reports/2026-06-23_美股開市前盤前快報.md)  
-- [2026-06-22-fullmarket-scan](reports/2026-06-22-fullmarket-scan.md)  
-- [2026-06-23_美股收市全日報告](reports/2026-06-23_美股收市全日報告.md)  
-- [2026-06-23_每日Sell Put掃描](reports/2026-06-23_每日Sell Put掃描.md)  
-- [2026-06-25-fullmarket-scan](reports/2026-06-25-fullmarket-scan.md)  
-- [2026-06-26-fullmarket-scan](reports/2026-06-26-fullmarket-scan.md)  
-- [2026-06-23-fullmarket-scan](reports/2026-06-23-fullmarket-scan.md)  
-- [2026-07-07](reports/2026-07-07.md)  
-- [2026-07-01](reports/2026-07-01.md)  
-- [2026-06-27](reports/2026-06-27.md)  
+每日市場情報報告 — 64 隻官方 Watchlist 自動掃描
+
+## 最新報告
+
+- **[今日主報告 (2026-08-28)](reports/2026-08-28.html)**
+- GitHub Repo: [athatisai/stock-news-page](https://github.com/athatisai/stock-news-page)
+- 由 Hermes Agent 自動生成（cron job 工作日 07:00）
+
+## 歷史報告（由新到舊）
+
+| 日期 | 主報告 | 盤前快報 | 收市報告 | Sell Put 掃描 |
+|------|--------|----------|----------|---------------|
+| 2026-08-28 | [主](reports/2026-08-28.html) | [盤前](reports/2026-08-28-preopen.html) | — | [SellPut](reports/2026-08-28-fullmarket.html) |
+| 2026-08-27 | [主](reports/2026-08-27.html) | [盤前](reports/2026-08-27-preopen.html) | — | — |
+| 2026-08-26 | [主](reports/2026-08-26.html) | — | [收市](reports/2026-08-26-aftermarket.html) | — |
+| 2026-08-25 | [主](reports/2026-08-25.html) | [盤前](reports/2026-08-25-preopen.html) | [收市](reports/2026-08-25-aftermarket.html) | [SellPut](reports/2026-08-25-fullmarket.html) |
+| 2026-08-24 | [主](reports/2026-08-24.html) | [盤前](reports/2026-08-24-preopen.html) | — | [SellPut](reports/2026-08-24-fullmarket.html) |
+| 2026-08-22 | — | — | [收市](reports/2026-08-22-aftermarket.html) | — |
+| 2026-08-21 | [主](reports/2026-08-21.html) | [盤前](reports/2026-08-21-preopen.html) | [收市](reports/2026-08-21-aftermarket.html) | [SellPut](reports/2026-08-21-fullmarket.html) |
+| 2026-08-20 | [主](reports/2026-08-20.html) | [盤前](reports/2026-08-20-preopen.html) | [收市](reports/2026-08-20-aftermarket.html) | [SellPut](reports/2026-08-20-fullmarket.html) |
+| 2026-08-19 | [主](reports/2026-08-19.html) | [盤前](reports/2026-08-19-preopen.html) | [收市](reports/2026-08-19-aftermarket.html) | [SellPut](reports/2026-08-19-fullmarket.html) |
+| 2026-08-18 | [主](reports/2026-08-18.html) | [盤前](reports/2026-08-18-preopen.html) | [收市](reports/2026-08-18-aftermarket.html) | [SellPut](reports/2026-08-18-fullmarket.html) |
+| 2026-08-11 | [主](reports/2026-08-11.html) | [盤前](reports/2026-08-11-preopen.html) | [收市](reports/2026-08-11-aftermarket.html) | [SellPut](reports/2026-08-11-fullmarket.html) |
+| 2026-08-10 | [主](reports/2026-08-10.html) | [盤前](reports/2026-08-10-preopen.html) | — | [SellPut](reports/2026-08-10-fullmarket.html) |
+| 2026-08-08 | — | — | [收市](reports/2026-08-08-aftermarket.html) | — |
+| 2026-08-07 | [主](reports/2026-08-07.html) | [盤前](reports/2026-08-07-preopen.html) | [收市](reports/2026-08-07-aftermarket.html) | [SellPut](reports/2026-08-07-fullmarket.html) |
+| 2026-08-06 | [主](reports/2026-08-06.html) | [盤前](reports/2026-08-06-preopen.html) | [收市](reports/2026-08-06-aftermarket.html) | [SellPut](reports/2026-08-06-fullmarket.html) |
+| 2026-08-05 | [主](reports/2026-08-05.html) | [盤前](reports/2026-08-05-preopen.html) | [收市](reports/2026-08-05-aftermarket.html) | [SellPut](reports/2026-08-05-fullmarket.html) |
+| 2026-08-04 | [主](reports/2026-08-04.html) | [盤前](reports/2026-08-04-preopen.html) | [收市](reports/2026-08-04-aftermarket.html) | [SellPut](reports/2026-08-04-fullmarket.html) |
+| 2026-08-03 | [主](reports/2026-08-03.html) | [盤前](reports/2026-08-03-preopen.html) | — | [SellPut](reports/2026-08-03-fullmarket.html) |
+| 2026-08-01 | — | — | [收市](reports/2026-08-01-aftermarket.html) | — |
 
 ---
-*自動生成，更新頻率：工作日 20:30*
+共 73 個報告 · 自動生成 by Hermes · 最後更新：2026-08-28

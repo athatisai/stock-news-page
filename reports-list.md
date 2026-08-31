@@ -4,7 +4,7 @@
 
 ## 最新報告
 
-- **[今日主報告 (2026-08-28)](reports/2026-08-28.html)**
+- **[今日主報告 (2026-08-31)](reports/2026-08-31-1800.html)**
 - GitHub Repo: [athatisai/stock-news-page](https://github.com/athatisai/stock-news-page)
 - 由 Hermes Agent 自動生成 · 美東時間 09:45 / 11:00 / 12:30 / 18:00
 
@@ -12,6 +12,7 @@
 
 | 日期 | 09:45 開市 | 11:00 早段 | 12:30 午市 | 18:00 收市 | 備註 |
 |------|------------|------------|------------|------------|------|
+| 2026-08-31 | — | — | — | — | [1800](reports/2026-08-31-1800.html) |
 | 2026-08-28 | — | — | — | — | [](reports/2026-08-28.html), [preopen](reports/2026-08-28-preopen.html), [fullmarket](reports/2026-08-28-fullmarket.html), [0945](reports/2026-08-28-0945.html) |
 | 2026-08-27 | — | — | — | — | [](reports/2026-08-27.html), [preopen](reports/2026-08-27-preopen.html) |
 | 2026-08-26 | — | — | — | — | [](reports/2026-08-26.html), [sellput](reports/2026-08-26-sellput.html), [aftermarket](reports/2026-08-26-aftermarket.html) |
@@ -33,4 +34,4 @@
 | 2026-08-01 | — | — | — | — | [aftermarket](reports/2026-08-01-aftermarket.html) |
 
 ---
-共 74 個報告 · 自動生成 by Hermes · 最後更新：2026-08-28
+共 75 個報告 · 自動生成 by Hermes · 最後更新：2026-08-31
